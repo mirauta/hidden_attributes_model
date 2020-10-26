@@ -1,1 +1,1 @@
-Model description here: https://www.authorea.com/users/365785-bogdan-mirauta
+A PyMC3 implementation of a simple generative model aiming to describe and predict the exam results of learners. Using previous exam results, and assuming hidden parameters, putatively linked to basic skills, we build  learner and exam profiles.
